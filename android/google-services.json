@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806442558519",
+    "project_id": "orderyum-76e1c",
+    "storage_bucket": "orderyum-76e1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806442558519:android:6c5b836c719eb596474bb2",
+        "android_client_info": {
+          "package_name": "com.Orderyum.eat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXgdk2I4i6XxUsycNldK6PvSYU6Epmys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
